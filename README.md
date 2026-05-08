@@ -131,6 +131,9 @@ ORDER BY b.expiry_date;
 - PostgreSQL
 - SQL (DDL, DML, JOINs, Aggregations, Subqueries)
 
+## DEMO VIDEO
+https://drive.google.com/file/d/1q5Y_pH4BA7vhDCAf8DiJ-9fWCkATARpH/view?usp=drive_link
+
 ## License
 
 This project is for educational purposes.
