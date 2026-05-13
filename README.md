@@ -34,7 +34,8 @@ The database consists of 6 tables:
 
 ### ER Diagram
 
-<img width="2550" height="3300" alt="er_diagram copys" src="https://github.com/user-attachments/assets/3c352b67-7419-4003-94ab-4098f7ac3382" />
+<img width="2550" height="3300" alt="er_diagram (1)" src="https://github.com/user-attachments/assets/4bca2fff-b148-4ef8-ad5e-7934b4a62456" />
+
 
 
 ### Relationships
